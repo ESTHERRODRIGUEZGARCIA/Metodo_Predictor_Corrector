@@ -11,4 +11,6 @@ El valor aproximado de w_100 (Euler) es -11.21904841413239
 
 El valor aproximado de w_100 (Pred.-Corr.) es -11.453953605418956
 
-Resta entre ambos valores:  0.2349051912865665
+Método Predictor-Corrector: Resta en valor absoluto de la solución real menos solución numérica es:  0.00604639458
+
+Método de Euler: 0.24
